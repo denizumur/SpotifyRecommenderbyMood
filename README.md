@@ -9,6 +9,9 @@ Bu proje, kullanıcının mikrofonla söylediği Türkçe ifadeyi:
 
 ![Uygulama Ekran Görüntüsü](https://i.imgur.com/MpPZ4KG.png)
 
+![Uygulama Ekran Görüntüsü](https://i.imgur.com/uknY95K.png)
+
+
 ##  Özellikler
 
 -  Mikrofonla ses kaydı
