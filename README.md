@@ -15,3 +15,7 @@ Bu proje, kullanıcının mikrofonla söylediği Türkçe ifadeyi:
 -  Whisper ile İngilizce'ye çeviri
 -  Naive Bayes duygu sınıflandırması (`dair-ai/emotion`)
 -  Spotify API'den dinamik şarkı önerisi.
+
+!!!!!!!
+spotify_recommender.py dosyasında
+client_id ve client_secret kısımlarını kendi bilgilerinizle doldurunuz.
