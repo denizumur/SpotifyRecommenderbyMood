@@ -6,9 +6,7 @@ Bu proje, kullanıcının mikrofonla söylediği Türkçe ifadeyi:
 3. Tespit edilen duyguya göre Spotify API üzerinden şarkılar önerir.
 
 ##  ÖRNEK 
-
 ![Uygulama Ekran Görüntüsü](https://i.imgur.com/MpPZ4KG.png)
-
 
 
 ##  Özellikler
