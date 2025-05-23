@@ -8,7 +8,7 @@ from spotify_recommender import recommend_songs
 import io
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
 
 st.set_page_config(page_title="🎧 Ruh Haline Göre Spotify", page_icon="🎶", layout="centered")
 st.markdown("<h1 style='text-align: center; color: #1DB954;'>🎧 Ruh Haline Göre Spotify</h1>", unsafe_allow_html=True)
