@@ -7,7 +7,7 @@ Bu proje, kullanıcının mikrofonla söylediği Türkçe ifadeyi:
 
 ##  ÖRNEK 
 
-![Uygulama Ekran Görüntüsü](https://imgur.com/a/m9Isepk.png)
+![Uygulama Ekran Görüntüsü](https://i.imgur.com/MpPZ4KG.png)
 
 ##  Özellikler
 
